@@ -1,2 +1,3 @@
-# Angular
-Angular related documents and projects are here.
+# Angular.
+This is online shopping for electronic products.
+Data source : JSON.
